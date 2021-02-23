@@ -23,9 +23,11 @@ CHENNAAAA
  **Link**  
  ![github logo](http://pngimg.com/uploads/github/github_PNG40.png)
    
-   |name|college|branch|
-   |---|--------|-----|
-   |abc|vrsec|it|
+   |name|college|branch|  
+   |---|--------|-----|  
+   |abc|vrsec|it|  
+   
+   
    ~~GONEEEE
    
 
